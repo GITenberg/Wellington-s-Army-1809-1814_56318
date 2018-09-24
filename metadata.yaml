@@ -1,0 +1,31 @@
+_repo: Wellington-s-Army-1809-1814_56318
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Oman, Charles
+    aliases:
+    - Oman, C. W. C. (Charles William Chadwick)
+    - Oman, Charles William Chadwick
+    birthdate: 1860
+    deathdate: 1946
+    gutenberg_agent_id: '39035'
+    url: http://www.gutenberg.org/2009/agents/39035
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Oman
+description: ''
+gutenberg_issued: '2018-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56318'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wellington, Arthur Wellesley, Duke of, 1769-1852 -- Military leadership'
+- !lcsh 'Great Britain. Army -- Officers -- Biography'
+- !lcsh 'Peninsular War, 1807-1814 -- Participation, British'
+- !lcc 'DC'
+- !lcsh 'Great Britain -- History, Military -- 1789-1820'
+- GITenberg
+title: Wellington's Army, 1809-1814
+url: http://www.gutenberg.org/ebooks/56318
